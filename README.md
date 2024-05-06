@@ -1,1 +1,6 @@
-# study_support_app
+# 学習サポート用デスクトップアプリ
+
+---
+
+# 言語
+Python
